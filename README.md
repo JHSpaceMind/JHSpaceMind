@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/fe/28/35/fe2835b83a8708b1855bc34bd4a0e2fa.gif" alt="Meu GIF" />
 </div>
+
 ## Sobre Mim
 Olá! Sou um jovem de 20 anos apaixonado por tecnologia e programação. Atualmente, estou estudando para me tornar um desenvolvedor completo e sempre em busca de aprender mais.
 
