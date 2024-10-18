@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/fe/28/35/fe2835b83a8708b1855bc34bd4a0e2fa.gif" alt="Meu GIF" />
+  <img src="https://media.giphy.com/media/13Sv9iLi7s3vIS/giphy.gif" alt="Meu GIF" />
 </div>
 
 ## Sobre Mim
