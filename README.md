@@ -1,3 +1,5 @@
+![Abertura bonita de anime](https://br.pinterest.com/pin/407083253793703902/)
+
 ## Sobre Mim
 Olá! Sou um jovem de 20 anos apaixonado por tecnologia e programação. Atualmente, estou estudando para me tornar um desenvolvedor completo e sempre em busca de aprender mais.
 
@@ -17,6 +19,6 @@ Olá! Sou um jovem de 20 anos apaixonado por tecnologia e programação. Atualme
 ## Contato
 📫 Como me encontrar: [juliaxavier.134@gmail.com]
 
-![Cute Boy anime Gif](https://i.pinimg.com/originals/06/66/9d/06669d0af1213c9577e65a5a83666bf9.gif)
 ## Pronome
-😄 Pronomes: Ele/Dele 
+😄 Pronomes: Ele/Dele (Sou um garoto trans não assumido.)
+
