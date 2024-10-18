@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://media.giphy.com/media/tj8kS6Q0tlfYk/giphy.gif?cid=790b7611k9amy0bjdfy9rwisqferqp6g78bnxnjtd004f6lg&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Anime girl" width="300">
+  <img src="https://media.giphy.com/media/Uz4cDaGXPxeuY/giphy.gif?cid=ecf05e47dh7cctdluqkz4bg4lgopvxl4d4xi8ju8v7ytu1sq&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Anime girl" width="300">
 </div>
 
 
