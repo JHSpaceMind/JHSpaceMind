@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6MbfzI7YQ53f5u7m/giphy.gif" alt="Meu GIF" />
+  <img src="https://tenor.com/pt-BR/view/aurelius467385-chainsaw-man-makima-snail-gif-26904524" alt="Meu GIF" />
 </div>
 
 ## Sobre Mim
