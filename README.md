@@ -1,6 +1,6 @@
-
- <div class="tenor-gif-embed" data-postid="26904524" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/aurelius467385-chainsaw-man-makima-snail-gif-26904524">Aurelius467385 Chainsaw Man GIF</a>from <a href="https://tenor.com/search/aurelius467385-gifs">Aurelius467385 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+<div align="center">
+  <img src="https://media.tenor.com/images/9c5f23b33eb337e54b10d0d1800fc6d4/tenor.gif" alt="Descrição do GIF">
+</div>
 
 ## Sobre Mim
 Olá! Sou um jovem de 20 anos apaixonado por tecnologia e programação. Atualmente, estou estudando para me tornar um desenvolvedor completo e sempre em busca de aprender mais.
