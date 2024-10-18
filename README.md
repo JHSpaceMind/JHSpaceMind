@@ -1,7 +1,5 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/36/ec/1c/36ec1ca78e0839fb2dc021a5f11e72e3.gif" alt="Anime girl">
-</div>
-
+![Descrição do GIF](https://i.pinimg.com/originals/36/ec/1c/36ec1ca78e0839fb2dc021a5f11e72e3.gif)
+ 
 ## Sobre Mim
 Olá! Sou um jovem de 20 anos apaixonado por tecnologia e programação. Atualmente, estou estudando para me tornar um desenvolvedor completo e sempre em busca de aprender mais.
 
