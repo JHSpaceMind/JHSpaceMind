@@ -19,9 +19,6 @@ Olá! Sou um jovem de 20 anos apaixonado por tecnologia e programação. Atualme
 
 ⚡Nas horas vagas também, toco um pouco de bateria e escrevo poesia
 
-## Contato
-📫 Como me encontrar: [juliaxavier.134@gmail.com]
-
 ## Pronome
 😄 Pronomes: Ele/Dele (Sou um garoto trans não assumido.)
 
