@@ -14,7 +14,9 @@ Olá! Sou um jovem de 20 anos apaixonado por tecnologia e programação. Atualme
 
 ## Curiosidade
 ⚡ Uma curiosidade sobre mim é que eu gosto de desenhar e criar arte digital nas horas vagas!
+
 ⚡ Fiz cursos de Design Gráfico e Web Design!
+
 ⚡Nas horas vagas também, toco um pouco de bateria e escrevo poesia
 
 ## Contato
