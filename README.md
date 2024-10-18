@@ -1,5 +1,6 @@
+
 <div align="center">
-  <img src="https://i.pinimg.com/originals/36/ec/1c/36ec1ca78e0839fb2dc021a5f11e72e3.gif" alt="Anime girl" width="300">
+  <img src="https://media.giphy.com/media/3o7btvQ1Q5z1b5X1y8/giphy.gif" alt="Anime girl" style="max-width: 100%;">
 </div>
 
 ## Sobre Mim
