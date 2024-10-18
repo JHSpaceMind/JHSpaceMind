@@ -1,4 +1,6 @@
-![Abertura bonita de anime](https://i.pinimg.com/originals/fe/28/35/fe2835b83a8708b1855bc34bd4a0e2fa.gif)
+<div align="center">
+  <img src="https://i.pinimg.com/originals/fe/28/35/fe2835b83a8708b1855bc34bd4a0e2fa.gif" alt="Meu GIF" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JHSpaceMind&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
