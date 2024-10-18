@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/36/ec/1c/36ec1ca78e0839fb2dc021a5f11e72e3.gif" alt="Descrição do GIF">
+  <img src="https://i.pinimg.com/originals/36/ec/1c/36ec1ca78e0839fb2dc021a5f11e72e3.gif" alt="Anime girl">
 </div>
 
 ## Sobre Mim
