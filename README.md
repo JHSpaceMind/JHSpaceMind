@@ -29,8 +29,4 @@ Olá! Sou um jovem de 20 anos apaixonado por tecnologia e programação. Atualme
 ⚡ Fiz cursos de Design Gráfico e Web Design!
 
 ⚡Nas horas vagas também, toco um pouco de bateria e escrevo poesia
-
-## 🧷Pronome
-😄 Pronomes: Ele/Dele (Sou um garoto trans não assumido.) 
-- Por favor, mantenham o respeito e o carinho. Agradeço a compreensão!😓🍂
 </div>
